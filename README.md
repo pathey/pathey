@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! My name is Peter Athey and welcome to my page.
+
+I am a graduate student at SDSU. I am pursuing a Master's in Computer Engineering (not Computer Science!).
+
+My areas of expertise are in machine learning/scientific computing and embedded systems.
+
+Fun Fact:The first person to receive a PhD in Computer Science was a nun! Read more [here](https://www.cs.wisc.edu/2019/03/18/2759/).
+
+
 
 <!--
 **pathey/pathey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
