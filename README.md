@@ -1,4 +1,4 @@
-## Hi there! My name is Peter Athey and I am a graduate student as SDSU.
+## Hi there! My name is Peter Athey and I am a graduate student at SDSU.
 
 I have experience in data analysis, machine learning, and embedded systems.
 
