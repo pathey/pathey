@@ -1,8 +1,8 @@
-## Hi there! My name is Peter Athey and I am a graduate student at SDSU.
+## Hi there! My name is Peter Athey and I am a software engineer interested in challenging hardware adjacent problems!
 
 I have experience in data analysis, machine learning, and embedded systems.
 
-Education 🎓: I am currently pursuing a Master's in Computer Engineering (not Computer Science!) at San Diego State University. My undergraduate degree is a Bachelor's in Physics at UC Merced. My senior thesis was a meta analysis of performance trends in the perovskite solar cell field. Read it [here!](https://drive.google.com/file/d/1ppUPBzI7XF35x9pE6dLhKuWVs36OalOH/view?usp=sharing)
+Education 🎓: I have a MS in Computer Engineering (not Computer Science!) from San Diego State University. My undergraduate degree is a BS in Physics at UC Merced. My senior thesis was a meta analysis of performance trends in the perovskite solar cell field. Read it [here!](https://drive.google.com/file/d/1ppUPBzI7XF35x9pE6dLhKuWVs36OalOH/view?usp=sharing)
 
 Fun Fact: The first person to receive a PhD in Computer Science was a nun! Read more [here](https://www.cs.wisc.edu/2019/03/18/2759/).
 
